@@ -1,5 +1,3 @@
-
-
 <!-- Popup met kleurverandering bij checkbox -->
 <div id="popup" style="
   position: fixed;
